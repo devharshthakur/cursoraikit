@@ -1,12 +1,22 @@
 {
-  "name": "aikit",
+  "name": "cursoraikit",
   "version": "1.0.0",
-  "description": "Aikit is a toolkit for cursor for coding with AI. It provieds set of commands, rules to help you build your own AI application using cursor.",
+  "description": "Cursor-Ai-Kit is a toolkit for cursor for coding with AI. It provieds set of commands, rules to help you build your own AI application using cursor.",
   "scripts": {
     "format": "prettier --write \"**/*.{md,json}\"",
     "format:check": "prettier --check \"**/*.{md,json}\""
   },
-  "keywords": [],
+  "keywords": [
+    "cursor",
+    "ai",
+    "toolkit",
+    "commands",
+    "rules",
+    "ai-application",
+    "ai-development",
+    "ai-coding",
+    "ai-programming"
+  ],
   "author": "Harsh Thakur",
   "license": "MIT",
   "packageManager": "pnpm@10.20.0",
