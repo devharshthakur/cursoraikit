@@ -1,6 +1,6 @@
 # Cursor AI Kit
 
-A toolkit for [Cursor](https://cursor.com/home?from=agents) that provides a set of commands and rules to help you build applications using Cursor.
+A toolkit that provides a set of commands and rules to help you build applications using [Cursor](https://cursor.com/home?from=agents).
 
 ## Installation
 
